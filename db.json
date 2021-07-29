@@ -1,1 +1,13 @@
-{"results":[{"path":"Release","updatedAt":"2021-07-29T07:02:31.410Z","createdAt":"2021-07-15T07:40:11.899Z","packname":"com.pinpingou.wanwanshopping","type":"vietnam","readme":"https:\/\/www.baidu.com","objectId":"60efe65b6a0e0769645b525b"}]}
+{
+    "results":[
+        {
+            "path":"Release",
+            "updatedAt":"2021-07-29T07:02:31.410Z",
+            "createdAt":"2021-07-15T07:40:11.899Z",
+            "packname":"com.pinpingou.wanwanshopping",
+            "type":"vietnam",
+            "readme":"https:\/\/www.baidu.com",
+            "objectId":"60efe65b6a0e0769645b525b"
+        }
+    ]
+}
